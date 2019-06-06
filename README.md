@@ -1,5 +1,5 @@
 # test
-Created with CodeSandbox
+Created with CodeSandbox - https://codesandbox.io/s/github/Trinnitty/test/tree/master/
 
 С использованием библиотеки React реализовать приложение, которое умеет показывать следующие страницы:
 / — главная
